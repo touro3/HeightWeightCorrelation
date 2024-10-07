@@ -30,10 +30,10 @@ Contains unit tests to verify data loading, model saving/loading, and model pred
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### 1. Follow this commands(step-by-step)
 
 ```bash
-git clone https://github.com/yourusername/heightweight.git
+git clone https://github.com/touro3/heightweight.git
 cd heightweight
 python3 -m venv venv
 source venv/bin/activate  # On macOS or Linux
